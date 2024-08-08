@@ -2,7 +2,7 @@
 - 👀 I’m interested in DART
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android APP development
-- 📫 How to reach me www.linkedin.com/in/thrilok-prakashan
+- 📫 How to reach me https://www.linkedin.com/in/thrilok-prakashan-b6b509313/
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
