@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrilokprakashh&label=Profile%20views&color=0e75b6&style=flat" alt="thrilokprakashh" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/thrilok-prakashan-b6b509313/](https://www.linkedin.com/in/thrilok-prakashan-b6b509313/)
+- 👨‍💻 All of my projects are available at [https://thrilokp.netlify.app/](https://thrilokp.netlify.app/)
 
 - 💬 Ask me about **Flutter,Dart,C++**
 
